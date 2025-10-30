@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "React Basics",
+      "author": "John Doe"
+    },
+    {
+      "title": "Learning Spring Boot",
+      "author": "Jane Smith",
+      "id": "2"
+    },
+    {
+      "title": "Interstellar",
+      "author": "Christopher Nolan",
+      "id": "d6f6"
+    },
+    {
+      "id": "8894",
+      "title": "Harry Potter",
+      "author": "JK Rowling"
+    }
+  ]
+}
